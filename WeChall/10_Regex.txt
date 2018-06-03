@@ -1,0 +1,12 @@
+		
+Level one: /^$/
+
+Level two: /^wechall$/
+
+Level three: /^wechall4?\.(?:jpg|gif|tiff|bmp|png)$/
+
+Non capturing group: la definición más simple para entender este concepto es que la expresión regular 
+no devuelve el emparejamiento del primer grupo, del segundo... y del n grupo, sino que contrario a esto
+devuelve ÚNICAMENTE el emparejamiento completo (full match).
+
+Level four: /^(wechall4?)\.(?:jpg|gif|tiff|bmp|png)$/

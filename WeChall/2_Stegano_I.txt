@@ -1,0 +1,5 @@
+1. Descarga la imagen stegano1.bmp.
+2. Cambia la extensión de la imagen de '.bmp' a '.bmp.hex'.
+3. Abre el nuevo formato en sublime text.
+4. Traduce el código hexadecimal encontrado a texto plato.
+5. Copia y pega la contraseña encontrada.

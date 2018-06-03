@@ -1,0 +1,4 @@
+El archivo robots.txt es comúnmente puesto en la carpeta root de un sitio web, por lo tanto...
+
+1. Vamos a -> http://www.wechall.net/robots.txt
+2. Seguimos el url dado y listo.

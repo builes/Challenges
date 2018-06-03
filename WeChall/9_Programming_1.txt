@@ -1,0 +1,5 @@
+Mi respuesta es usando python y una librería llamada request
+
+1. Hacer un request get de la url donde nos genera la respuesta.
+2. Hacer un request get de la url donde tiene que estar la respuesta y enviar como data la respuesta.
+3. Fin.

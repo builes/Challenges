@@ -1,0 +1,4 @@
+If you wanna learn...
+
+1. Cree un programa con dos funciones y un man, una función booleana que devuelve si es o no primo un número y otra que devuelva la suma de los dígitos de un número, en el main itere desde 1 miĺlón hasta 2 millones probando si se satisfacen ambas funciones.
+2. Devuelva solo dos números que lo cumplan.

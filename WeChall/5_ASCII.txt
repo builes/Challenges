@@ -1,0 +1,6 @@
+Simple.
+
+1. Ir a -> https://www.browserling.com/tools/ascii-to-text
+2. Pegar el código ASCII y traducirlo.
+
+No te mates la cabeza.

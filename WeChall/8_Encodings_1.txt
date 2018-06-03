@@ -1,0 +1,5 @@
+This text is 7-bit encoded ascii. 
+
+1. Primero, necesitas divir el código binario en grupitos de 7 dígitos.
+2. Utiliza este sitio -> https://www.rapidtables.com/convert/number/binary-to-ascii.html para traducir el mensaje.
+3. Usa la contraseña obtenida.

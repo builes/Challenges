@@ -1,0 +1,4 @@
+Lo mismo.
+
+1. Ir a -> https://www.urldecoder.org/
+2. Pegar la url y darle Decode.

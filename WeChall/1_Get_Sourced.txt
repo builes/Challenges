@@ -1,0 +1,5 @@
+1. Usa CTRL + U para ver el código fuente de la página web actual.
+2. Ir al final de nuestro codigo fuente.
+3. Allí encontraremos lo siguiente 
+	<!-- You are looking for this password: html_sourcecode -->
+4. Ingresamos la clave y listo.
