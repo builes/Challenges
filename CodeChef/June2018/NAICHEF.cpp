@@ -26,7 +26,7 @@ int main(){
 
 
 		//Code()
-        cout << prob(a,n,faces) * prob(b,n,faces) << endl;
+        	cout << prob(a,n,faces) * prob(b,n,faces) << endl;
 
 		t--;
 
@@ -38,13 +38,13 @@ return 0;
 
 float prob(int m, int n, int data[]){
 
-    int counter = 0;
+    	int counter = 0;
 	for(int i = 0; i < n; i++){
 		if(data[i] == m){
-            counter = counter + 1;
+        		counter = counter + 1;
 		}
 	}
 
-    return (float)counter / (float)n;
+	return (float)counter / (float)n;
 
 }
